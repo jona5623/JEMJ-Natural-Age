@@ -1,0 +1,70 @@
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\JEMJ Natural Age.csproj.AssemblyReference.cache
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\App.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\App.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\App.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\App.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\App.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\JEMJ Natural Age.xr.xml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\JEMJ Natural Age.exe
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\JEMJ Natural Age.pdb
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\resources.pri
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\AppxManifest.xml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Core\AppxManifest.xml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Core\JEMJ Natural Age.exe
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\JEMJ Natural Age.build.appxrecipe
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\System.Runtime.dll
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\JEMJ Natural Age.csproj.CoreCompileInputs.cache
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\JEMJ Natural Age.exe
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\JEMJ Natural Age.pdb
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\ResourceHandlingTask.state
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\priconfig.xml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\priconfig.xml.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\filtered.layout.resfiles
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\excluded.layout.resfiles
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\resources.resfiles
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\resources.resfiles.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\pri.resfiles
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\pri.resfiles.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\qualifiers.txt
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\ProjectArchitectures.txt
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424995200000000.json
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Gui\Frame_persona.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Gui\MainPage.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_persona.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_persona.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\MainPage.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\MainPage.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_persona.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\MainPage.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_persona.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\MainPage.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_cita.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_cita.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_especialista.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_especialista.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_paciente.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_paciente.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_tratamiento.g.i.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_tratamiento.g.cs
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_cita.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_tratamiento.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_especialista.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_paciente.xaml
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_cita.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_tratamiento.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_especialista.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\obj\x86\Debug\Gui\Frame_paciente.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Gui\Frame_cita.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Gui\Frame_especialista.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Gui\Frame_paciente.xbf
+D:\Trabajos\Visual Studio\JEMJ Natural Age\JEMJ Natural Age\bin\x86\Debug\Gui\Frame_tratamiento.xbf
